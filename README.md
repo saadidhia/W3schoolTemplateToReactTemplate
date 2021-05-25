@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App]
+
+This project, it was just to refresh my skills in ReactJs, I have choose html/css template from w3School web site and convert it to ReactJs template : divide it into components.
+
+I use Jest and Enzyme to test my application .
 
 ## Available Scripts
 
