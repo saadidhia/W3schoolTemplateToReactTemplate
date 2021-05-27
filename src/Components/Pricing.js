@@ -15,7 +15,7 @@ function Pricing (){
     <p>Choose a pricing plan that fits your needs.</p> <br/>
 
     {offre.map((data,id)=>
-    <div className="w3-third w3-margin-bottom">
+    <div className="w3-third w3-margin-bottom" key={id}>
     <ul className="w3-ul w3-border w3-hover-shadow">
       <li className="w3-theme">
         <p className="w3-xlarge">{data.offreName}</p>
